@@ -6,6 +6,7 @@ Not2:Test amaçlı yazılmış olup, tüm sorumluluk kullanıcıya aittir.
 
 Not3: Python 3.8 ile Windows İşletim sisteminde denenmiş başarılı sonuç alınmıştır.
 
+![Adsız](https://user-images.githubusercontent.com/65914978/100992570-62c55280-3565-11eb-9413-5350d250b881.png)
 
 # Kurulum & Kullanım:
 
